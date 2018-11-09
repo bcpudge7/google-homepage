@@ -1,0 +1,131 @@
+
+img {
+	height: 8%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 109px;
+	padding-bottom: 25px;
+}
+
+.logo {
+	position: relative;
+	left: 120px;
+
+}
+
+input {
+	height: 34px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	border-radius: 2px;
+	font-size: 17px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 10px;
+	padding-top: 10px;
+}
+
+li {
+	display: inline;
+}
+
+.link {
+	color: gray;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 13px;
+
+}
+
+.left {
+	padding: 5px;
+	padding-top: 10px;
+	position: fixed;
+	left: 20px;
+	
+}
+
+.left_left {
+	position: fixed;
+	left: 80px;
+	top: 30px;
+}
+
+.left_left_left {
+	position: fixed;
+	left: 120px;
+	top: 880px;
+}
+
+.right {
+	float: right;
+	padding: 25px;
+	padding-left: 10px;
+}
+
+.grid{
+	position: fixed;
+	top: -75px;
+	height: 25px;
+	width: 25px;
+}
+
+.notification{
+	position: fixed;
+	top: -75px;
+	height: 25px;
+	width: 25px;
+}
+
+.b{
+	position: fixed;
+	top: -75px;
+	height: 25px;
+	width: 25px;
+}
+
+.footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #f2f2f2
+}
+
+button{
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #757575;
+	margin: 11px 4px;
+	padding: 0 16px;
+	height: 36px;
+	border-radius: 2px;
+}
+
+.parker {
+	position: fixed;
+	left: 790px;
+	bottom: 500px;
+}
+
+ .google{
+	background-color: #f2f2f2;
+	position: fixed;
+	left: 775px;
+	margin-top: 30px;
+}
+
+.lucky{
+	background-color: #f2f2f2;
+	position: fixed;
+	left: 925px;
+	margin-top: 30px;
+}
+
+
